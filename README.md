@@ -45,22 +45,22 @@ class BhupeshKD:
 
 📈 Continuous Learner
 
-🛠 Tech Stack
+##🛠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,mysql,redis,docker,git,github,linux,vscode" /> </p>
 
-📊 GitHub Analytics
+##📊 GitHub Analytics
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhupeshkd&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=bhupeshkd&theme=tokyonight&hide_border=true" />
 </p>
 
-📈 Activity Graph
+##📈 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupeshkd&theme=react-dark&hide_border=true&bg_color=0d1117" /> </p>
 
 ##🐍 Contribution Snake
 
 
-🎯 Engineering Philosophy
+##🎯 Engineering Philosophy
 
 Systems should think.
 
@@ -72,7 +72,7 @@ Performance over hype.
 
 Build → Break → Optimize → Repeat.
 
-🌐 Connect With Me
+##🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://stackoverflow.com/users/YOUR-ID"> <img src="https://skillicons.dev/icons?i=stackoverflow" /> </a> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=130&section=footer"/> </p>
