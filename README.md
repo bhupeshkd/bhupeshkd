@@ -49,8 +49,10 @@ class BhupeshKD:
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,mysql,redis,docker,git,github,linux,vscode" /> </p>
 
 📊 GitHub Analytics
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=bhupeshkd&show_icons=true&theme=transparent&hide_border=true" />
- <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupeshkd&theme=tokyonight&hide_border=true&background=0d1117" /></p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhupeshkd&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=bhupeshkd&theme=tokyonight&hide_border=true" />
+</p>
 
 📈 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupeshkd&theme=react-dark&hide_border=true&bg_color=0d1117" /> </p>
