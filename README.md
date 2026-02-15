@@ -54,7 +54,10 @@ class BhupeshKD:
 📈 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupeshkd&theme=react-dark&hide_border=true&bg_color=0d1117" /> </p>
 
-🐍 Contribution Snake
+##🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/bhupeshkd/bhupeshkd/output/github-contribution-grid-snake.svg)
+
 
 🎯 Engineering Philosophy
 
