@@ -29,7 +29,7 @@ class BhupeshKD:
 
     def mindset(self):
         return "Scalable. Intelligent. Efficient."
-
+```
 ## ⚡ Quick Highlights
 
 🚀 AI & Automation Focused
