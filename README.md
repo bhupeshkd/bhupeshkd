@@ -29,3 +29,15 @@ class BhupeshKD:
 
     def mindset(self):
         return "Scalable. Intelligent. Efficient."
+
+## ⚡ Quick Highlights
+
+🚀 AI & Automation Focused
+
+🧠 Backend Architecture Enthusiast
+
+🔄 Real-Time Systems Builder
+
+🛠 Production-Ready Mindset
+
+📈 Continuous Learner
