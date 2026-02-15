@@ -7,8 +7,9 @@
 <h3 align="center">AI Systems Engineer • Python Architect • Backend Builder</h3>
 
 <p align="center">
-  <b>Building Intelligent Systems That Scale</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+Intelligent+Systems;Building+AI+Agents;Scalable+Django+Architectures;Turning+Complex+Problems+Into+Clean+Code" />
 </p>
+
 
 
 ---
