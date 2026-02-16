@@ -76,6 +76,6 @@ Performance over hype.
 Build → Break → Optimize → Repeat.
 
 ## 🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://stackoverflow.com/users/YOUR-ID"> <img src="https://skillicons.dev/icons?i=stackoverflow" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/bhupesh-dew"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://stackoverflow.com/users/YOUR-ID"> <img src="https://skillicons.dev/icons?i=stackoverflow" /> </a> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=130&section=footer"/> </p>
