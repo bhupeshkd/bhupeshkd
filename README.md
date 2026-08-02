@@ -1,42 +1,87 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================================================= -->
+<!--                    BHUPESH GITHUB README                  -->
+<!-- ========================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Bhupesh%20Kumar%20Dewangan&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20&text=Bhupesh%20Kumar%20Dewangan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h2 align="center">
-AI Engineer • Python Backend Developer • AI Agent Builder
+🚀 AI Engineer • Python Backend Developer • AI Agent Builder
 </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=23&duration=3500&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;Python+%7C+Django+%7C+FastAPI;AI+Agents+%7C+Automation;Backend+Architecture+%7C+Real-Time+Systems;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;Python+%7C+Django+%7C+FastAPI;AI+Agents+%7C+Automation;Backend+Architecture;Learning+Every+Single+Day"/>
 </p>
 
 ---
 
 # 👋 Hello, I'm Bhupesh
 
-I'm a Python developer passionate about building intelligent software, scalable backend systems, and AI-powered applications.
+I'm a **Python Backend Developer** passionate about building **AI-powered applications**, **backend systems**, and **production-ready software**.
 
-I enjoy solving real-world problems through clean architecture, automation, and modern software engineering practices.
+I enjoy solving complex engineering problems through clean architecture, scalable APIs, automation, and modern AI technologies.
 
-Currently learning advanced AI engineering while building production-style projects.
+> **"Good software isn't just code that works—it's software that's maintainable, scalable, and solves real problems."**
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 Current Focus
 
 - 🤖 AI Agents
-- 🧠 LLM Applications
-- ⚡ FastAPI & Django APIs
+- 🧠 Large Language Models (LLMs)
+- ⚡ FastAPI & Django
 - 🔄 Backend Automation
-- 🌐 Real-Time Systems
-- 🐳 Docker Deployment
-- 📈 Production Software Design
+- 🏗 System Design
+- 🐳 Docker & Deployment
+- 📈 Production-Level Software
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Engineering DNA
+
+```python
+class Bhupesh:
+
+    def __init__(self):
+
+        self.name = "Bhupesh Kumar Dewangan"
+
+        self.role = [
+            "AI Engineer",
+            "Python Backend Developer"
+        ]
+
+        self.languages = [
+            "Python",
+            "JavaScript"
+        ]
+
+        self.frameworks = [
+            "Django",
+            "FastAPI"
+        ]
+
+        self.current_focus = [
+            "AI Agents",
+            "Automation",
+            "Backend Architecture",
+            "System Design"
+        ]
+
+    def philosophy(self):
+
+        return (
+            "Build Clean Code\n"
+            "Design Scalable Systems\n"
+            "Keep Learning\n"
+            "Ship Real Products"
+        )
+```
+
+---
+
+# ⚙️ Tech Stack
 
 ### Languages
 
@@ -56,92 +101,57 @@ Currently learning advanced AI engineering while building production-style proje
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
 </p>
 
-### Tools
+### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
 </p>
-
----
-
-# 💻 Engineering Mindset
-
-```python
-class Engineer:
-
-    def __init__(self):
-
-        self.language = "Python"
-
-        self.interests = [
-            "AI Engineering",
-            "Backend Development",
-            "Automation",
-            "System Design",
-            "Real-Time Applications"
-        ]
-
-        self.current_focus = [
-            "AI Agents",
-            "FastAPI",
-            "Django",
-            "Production Architecture"
-        ]
-
-    def philosophy(self):
-        return (
-            "Write clean code.\n"
-            "Design scalable systems.\n"
-            "Keep learning.\n"
-            "Build products that solve problems."
-        )
-```
 
 ---
 
 # 🌟 Featured Projects
 
-### 🤖 AI Agent Dashboard
+## 🤖 AI Agent Dashboard
 
-An AI-powered automation platform capable of processing workflows, integrating APIs, and managing intelligent tasks.
-
-**Tech**
-
-Python • FastAPI • Streamlit • Supabase • OpenAI
-
----
-
-### 💬 ChatterBox
-
-A real-time social platform supporting authentication, messaging, notifications, and live communication.
+AI-powered automation platform capable of handling intelligent workflows using modern LLM technologies.
 
 **Tech**
 
-Django • Django Channels • Redis • WebSockets
+`Python` • `FastAPI` • `Streamlit` • `Supabase` • `OpenAI`
 
 ---
 
-### 🎓 StudyEngage
+## 💬 ChatterBox
 
-Collaborative study portal designed for students.
+Real-time social networking platform with authentication, messaging, notifications, and WebSockets.
 
 **Tech**
 
-Django • SQLite • Bootstrap
+`Django` • `Django Channels` • `Redis` • `WebSockets`
 
 ---
 
-### 😊 Face Recognition Attendance System
+## 📚 StudyEngage
 
-Desktop attendance system using computer vision.
+Collaborative learning portal for students featuring authentication, study groups, and resource management.
 
 **Tech**
 
-Python • OpenCV • Tkinter • MySQL
+`Django` • `SQLite`
 
 ---
 
-# 📊 GitHub Statistics
+## 😊 Face Recognition Attendance System
+
+Desktop attendance management system powered by Computer Vision.
+
+**Tech**
+
+`Python` • `OpenCV` • `Tkinter` • `MySQL`
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -163,38 +173,53 @@ Python • OpenCV • Tkinter • MySQL
 
 ---
 
-# 🐍 Contributions
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/bhupeshkd/bhupeshkd/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/bhupeshkd/bhupeshkd/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🎯 Philosophy
+# 🎯 Current Learning
 
-> "Good software isn't just code that works.
->
-> It's code that scales, remains maintainable, and makes future development easier."
+```text
+Python              ██████████████
+
+Django              ████████████
+
+FastAPI             ███████████
+
+AI Agents           ██████████
+
+Docker              █████████
+
+System Design       ████████
+
+LLMs                ███████
+```
 
 ---
 
-# 📚 Currently Learning
+# 🏆 Engineering Principles
 
-- Large Language Models
-- AI Agents
-- FastAPI
-- Docker
-- System Design
-- Design Patterns
-- Clean Architecture
-- Production Deployment
+✔ Write readable code
+
+✔ Design scalable architecture
+
+✔ Build production-ready software
+
+✔ Automate repetitive work
+
+✔ Learn continuously
+
+✔ Solve real-world problems
 
 ---
 
-# 🤝 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -202,12 +227,16 @@ Python • OpenCV • Tkinter • MySQL
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/bhupeshkd">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/bhupeshkd">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
@@ -223,5 +252,13 @@ Python • OpenCV • Tkinter • MySQL
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+
+### 💡 "Building intelligent software, one commit at a time."
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20&section=footer"/>
+
 </p>
