@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
@@ -89,7 +89,6 @@ class Engineer:
             "Deliver products that provide real value."
         )
 
-```
 
 ---
 
