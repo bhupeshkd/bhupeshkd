@@ -1,87 +1,42 @@
-<!-- ========================================================= -->
-<!--                    BHUPESH GITHUB README                  -->
-<!-- ========================================================= -->
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20&text=Bhupesh%20Kumar%20Dewangan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Bhupesh%20Kumar%20Dewangan&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 </p>
 
 <h2 align="center">
-🚀 AI Engineer • Python Backend Developer • AI Agent Builder
+AI Engineer • Python Backend Developer • AI Agent Builder
 </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;Python+%7C+Django+%7C+FastAPI;AI+Agents+%7C+Automation;Backend+Architecture;Learning+Every+Single+Day"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=23&duration=3500&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;Python+%7C+Django+%7C+FastAPI;AI+Agents+%7C+Automation;Backend+Architecture+%7C+Real-Time+Systems;Always+Learning+Something+New"/>
 </p>
 
 ---
 
 # 👋 Hello, I'm Bhupesh
 
-I'm a **Python Backend Developer** passionate about building **AI-powered applications**, **backend systems**, and **production-ready software**.
+I'm a Python developer passionate about building intelligent software, scalable backend systems, and AI-powered applications.
 
-I enjoy solving complex engineering problems through clean architecture, scalable APIs, automation, and modern AI technologies.
+I enjoy solving real-world problems through clean architecture, automation, and modern software engineering practices.
 
-> **"Good software isn't just code that works—it's software that's maintainable, scalable, and solves real problems."**
+Currently learning advanced AI engineering while building production-style projects.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Working On
 
 - 🤖 AI Agents
-- 🧠 Large Language Models (LLMs)
-- ⚡ FastAPI & Django
+- 🧠 LLM Applications
+- ⚡ FastAPI & Django APIs
 - 🔄 Backend Automation
-- 🏗 System Design
-- 🐳 Docker & Deployment
-- 📈 Production-Level Software
+- 🌐 Real-Time Systems
+- 🐳 Docker Deployment
+- 📈 Production Software Design
 
 ---
 
-# 💻 Engineering DNA
-
-```python
-class Bhupesh:
-
-    def __init__(self):
-
-        self.name = "Bhupesh Kumar Dewangan"
-
-        self.role = [
-            "AI Engineer",
-            "Python Backend Developer"
-        ]
-
-        self.languages = [
-            "Python",
-            "JavaScript"
-        ]
-
-        self.frameworks = [
-            "Django",
-            "FastAPI"
-        ]
-
-        self.current_focus = [
-            "AI Agents",
-            "Automation",
-            "Backend Architecture",
-            "System Design"
-        ]
-
-    def philosophy(self):
-
-        return (
-            "Build Clean Code\n"
-            "Design Scalable Systems\n"
-            "Keep Learning\n"
-            "Ship Real Products"
-        )
-```
-
----
-
-# ⚙️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -101,57 +56,92 @@ class Bhupesh:
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/>
 </p>
 
-### DevOps & Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
 </p>
+
+---
+
+# 💻 Engineering Mindset
+
+```python
+class Engineer:
+
+    def __init__(self):
+
+        self.language = "Python"
+
+        self.interests = [
+            "AI Engineering",
+            "Backend Development",
+            "Automation",
+            "System Design",
+            "Real-Time Applications"
+        ]
+
+        self.current_focus = [
+            "AI Agents",
+            "FastAPI",
+            "Django",
+            "Production Architecture"
+        ]
+
+    def philosophy(self):
+        return (
+            "Write clean code.\n"
+            "Design scalable systems.\n"
+            "Keep learning.\n"
+            "Build products that solve problems."
+        )
+```
 
 ---
 
 # 🌟 Featured Projects
 
-## 🤖 AI Agent Dashboard
+### 🤖 AI Agent Dashboard
 
-AI-powered automation platform capable of handling intelligent workflows using modern LLM technologies.
-
-**Tech**
-
-`Python` • `FastAPI` • `Streamlit` • `Supabase` • `OpenAI`
-
----
-
-## 💬 ChatterBox
-
-Real-time social networking platform with authentication, messaging, notifications, and WebSockets.
+An AI-powered automation platform capable of processing workflows, integrating APIs, and managing intelligent tasks.
 
 **Tech**
 
-`Django` • `Django Channels` • `Redis` • `WebSockets`
+Python • FastAPI • Streamlit • Supabase • OpenAI
 
 ---
 
-## 📚 StudyEngage
+### 💬 ChatterBox
 
-Collaborative learning portal for students featuring authentication, study groups, and resource management.
+A real-time social platform supporting authentication, messaging, notifications, and live communication.
 
 **Tech**
 
-`Django` • `SQLite`
+Django • Django Channels • Redis • WebSockets
 
 ---
 
-## 😊 Face Recognition Attendance System
+### 🎓 StudyEngage
 
-Desktop attendance management system powered by Computer Vision.
+Collaborative study portal designed for students.
 
 **Tech**
 
-`Python` • `OpenCV` • `Tkinter` • `MySQL`
+Django • SQLite • Bootstrap
 
 ---
 
-# 📊 GitHub Analytics
+### 😊 Face Recognition Attendance System
+
+Desktop attendance system using computer vision.
+
+**Tech**
+
+Python • OpenCV • Tkinter • MySQL
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -173,53 +163,38 @@ Desktop attendance management system powered by Computer Vision.
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contributions
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/bhupeshkd/bhupeshkd/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bhupeshkd/bhupeshkd/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 🎯 Current Learning
+# 🎯 Philosophy
 
-```text
-Python              ██████████████
-
-Django              ████████████
-
-FastAPI             ███████████
-
-AI Agents           ██████████
-
-Docker              █████████
-
-System Design       ████████
-
-LLMs                ███████
-```
+> "Good software isn't just code that works.
+>
+> It's code that scales, remains maintainable, and makes future development easier."
 
 ---
 
-# 🏆 Engineering Principles
+# 📚 Currently Learning
 
-✔ Write readable code
-
-✔ Design scalable architecture
-
-✔ Build production-ready software
-
-✔ Automate repetitive work
-
-✔ Learn continuously
-
-✔ Solve real-world problems
+- Large Language Models
+- AI Agents
+- FastAPI
+- Docker
+- System Design
+- Design Patterns
+- Clean Architecture
+- Production Deployment
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Connect
 
 <p align="center">
 
@@ -227,16 +202,12 @@ LLMs                ███████
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
 <a href="https://github.com/bhupeshkd">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -252,13 +223,5 @@ LLMs                ███████
 ---
 
 <p align="center">
-
-### 💡 "Building intelligent software, one commit at a time."
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
 </p>
