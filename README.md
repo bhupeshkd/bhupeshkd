@@ -1,8 +1,13 @@
 <!-- ========================= HEADER ========================= --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Bhupesh%20Kumar%20Dewangan&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Bhupesh Kumar Dewangan" />
-</p><h2 align="center">AI Automation Engineer · Python Backend Developer · AI Agent Builder</h2><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=21&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;AI+Agents+%7C+LLM+Applications;Python+%7C+Django+%7C+FastAPI;Business+Automation+%7C+CRM+Workflows;Turning+Complex+Problems+Into+Practical+Solutions" alt="Typing introduction" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&color=0:0B1220,55:123B5D,100:00A6C7&text=Bhupesh%20Kumar%20Dewangan&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=AI%20AUTOMATION%20%20%7C%20%20BACKEND%20ENGINEERING%20%20%7C%20%20INTELLIGENT%20SYSTEMS&descSize=13&descAlignY=68&animation=fadeIn"
+    alt="Bhupesh Kumar Dewangan — AI Automation Engineer"
+    width="100%"
+  />
 </p><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=17&duration=3200&pause=850&color=22D3EE&center=true&vCenter=true&width=850&lines=Designing+AI-Powered+Workflows;Building+Agents+%26+LLM+Applications;Python+%7C+Django+%7C+FastAPI;Connecting+Automation+With+Backend+Engineering" alt="Typing introduction" />
+</p>
+<p align="center">
   <a href="https://github.com/bhupeshkd"><img src="https://img.shields.io/badge/GitHub-bhupeshkd-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/bhupesh-dew"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:bhupeshh.dew@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -122,7 +127,11 @@ class Engineer:
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhupeshkd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p><p align="center">
-  <i>“Build things that solve real problems. Make them reliable. Keep making them better.”</i>
+  <i>“Build with purpose. Automate with intelligence. Engineer for what’s next.”</i>
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer" alt="Footer wave" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=90&section=footer&color=0:00A6C7,50:123B5D,100:0B1220"
+    alt="Minimal gradient footer"
+    width="100%"
+  />
 </p>
