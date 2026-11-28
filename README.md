@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= --><p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&color=0:0B1220,55:123B5D,100:00A6C7&text=Bhupesh%20Kumar%20Dewangan&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=AI%20AUTOMATION%20%20%7C%20%20BACKEND%20ENGINEERING%20%20%7C%20%20INTELLIGENT%20SYSTEMS&descSize=13&descAlignY=68&animation=fadeIn"
-    alt="Bhupesh Kumar Dewangan — AI Automation Engineer"
+    alt="Bhupesh Dewangan — AI Automation Engineer"
     width="100%"
   />
 </p><p align="center">
