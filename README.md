@@ -153,14 +153,6 @@ Python • OpenCV • Tkinter • MySQL
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00E5FF/bhupeshkd" alt="Bhupesh's GitHub Contribution Chart"/>
-</p>
-
----
-
 # 🐍 Contributions
 
 <p align="center">
