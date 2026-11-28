@@ -156,7 +156,7 @@ Python • OpenCV • Tkinter • MySQL
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.onrender.com/graph?username=bhupeshkd&theme=tokyo-night&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/00E5FF/bhupeshkd" alt="Bhupesh's GitHub Contribution Chart"/>
 </p>
 
 ---
