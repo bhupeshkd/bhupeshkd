@@ -187,19 +187,15 @@ Python • OpenCV • Tkinter • MySQL
 # 🤝 Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/bhupesh-dew">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/bhupeshkd">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/bhupesh-dew">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/bhupeshkd">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:bhupeshh.deww@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
